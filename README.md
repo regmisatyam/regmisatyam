@@ -13,7 +13,7 @@
 <p align="center"> 
  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
   <img src="  https://profile-counter.glitch.me/regmisatyam/count.svg"/>
-</p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=regmisatyam&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>  
